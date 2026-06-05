@@ -76,7 +76,7 @@
 									<Button name="ПереключитьАктивность" id="29">
 										<Type>CommandBarButton</Type>
 										<SkipOnInput>false</SkipOnInput>
-										<CommandName>4:2ccaf251-ee77-440f-a6e5-16f88825c6c0</CommandName>
+										<CommandName>0</CommandName>
 										<LocationInCommandBar>InCommandBarAndInAdditionalSubmenu</LocationInCommandBar>
 										<ExtendedTooltip name="ПереключитьАктивностьExtendedTooltip" id="36"/>
 									</Button>

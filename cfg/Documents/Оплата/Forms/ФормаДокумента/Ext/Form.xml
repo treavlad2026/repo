@@ -89,6 +89,12 @@
 			<ContextMenu name="СуммаКонтекстноеМеню" id="15"/>
 			<ExtendedTooltip name="СуммаExtendedTooltip" id="25"/>
 		</InputField>
+		<InputField name="Договор" id="26">
+			<DataPath>Объект.Договор</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ДоговорКонтекстноеМеню" id="27"/>
+			<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="28"/>
+		</InputField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">

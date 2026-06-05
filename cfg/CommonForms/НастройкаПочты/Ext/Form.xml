@@ -243,6 +243,10 @@
 			</Type>
 			<MainAttribute>true</MainAttribute>
 			<SavedData>true</SavedData>
+			<UseAlways>
+				<Field>Объект.РаботаСТорговымОборудованием</Field>
+				<Field>Объект.УчетПоСкладам</Field>
+			</UseAlways>
 		</Attribute>
 	</Attributes>
 	<Parameters>
