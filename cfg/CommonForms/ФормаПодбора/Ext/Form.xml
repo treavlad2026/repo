@@ -327,7 +327,7 @@
 							<Button name="Удалить" id="44">
 								<Type>CommandBarButton</Type>
 								<SkipOnInput>false</SkipOnInput>
-								<CommandName>5:ec576e13-1e76-4c33-98aa-a33204514227</CommandName>
+								<CommandName>0</CommandName>
 								<TextColor>style:ButtonTextColor</TextColor>
 								<BackColor>style:ButtonBackColor</BackColor>
 								<BorderColor>style:BorderColor</BorderColor>
